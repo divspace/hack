@@ -1,0 +1,13 @@
+@font-face {
+  font: {
+    family: "Hack";
+    weight: 400;
+    style: italic;
+  }
+
+  src: url("#{$hack-path}/hack-italic.eot");
+  src: url("#{$hack-path}/hack-italic.eot#iefix") format("embedded-opentype"),
+       url("#{$hack-path}/hack-italic.woff2") format("woff2"),
+       url("#{$hack-path}/hack-italic.woff") format("woff"),
+       url("#{$hack-path}/hack-italic.ttf") format("truetype");
+}

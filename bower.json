@@ -1,0 +1,24 @@
+{
+  "name": "hack",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/divspace/hack",
+  "description": "Bower package for the Hack web font",
+  "authors": [
+    "Kyle Anderson <kyle@divspace.com>"
+  ],
+  "keywords": [
+    "font",
+    "fonts",
+    "mono",
+    "hack"
+  ],
+  "main": [
+    "scss/hack.scss",
+    "css/hack.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
